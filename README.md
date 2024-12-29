@@ -1,6 +1,6 @@
 # LoetNet DoS v1.0
-![banner image](https://github.com/anezatra/LOETNET/blob/main/banner.png)
-<br>DoS kit that allows you to perform various DoS attacks. (**LotNet**)<br></br>
+![banner image](https://github.com/anezatra/LOETNET/blob/main/banner.png)<br></br>
+DoS kit that allows you to perform various DoS attacks. (**LotNet**)
 This tool is coded entirely in (**python.**)
 
 # INFO
